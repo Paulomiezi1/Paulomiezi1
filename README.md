@@ -1,7 +1,8 @@
 ### Hi, I'm Paulo!
 Welcome to my profile! How is it going? 👋 👋
 
-Hi! I'm a developer that loves create new things!  Currently I'm learning and trying to expand my knowledge in Node.js, ReactJS and React Native 🤓📖
+Hi! I'm a developer that loves create new things!  Currently I'm learning and trying to expand my knowledge, end my favorite Stack is 💻 Node, ReactJS, React Native, Typescript
+Ask me about C#, JAVA
 <!--
 **Paulomiezi1/Paulomiezi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
