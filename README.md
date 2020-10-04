@@ -1,8 +1,14 @@
 ### Hi, I'm Paulo!
-Welcome to my profile! How is it going? 👋 👋
+### Welcome to my profile! How is it going? 👋 👋
 
 Hi! I'm a developer that loves create new things!  Currently I'm learning and trying to expand my knowledge, end my favorite Stack is 💻 Node, ReactJS, React Native, Typescript
 Ask me about C#, JAVA
+
+[![Follow me on Twitter](https://img.shields.io/badge/-@PauloMiezi-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/PauloMiezi)](https://twitter.com/PauloMiezi) 
+[![GitHub followers](https://img.shields.io/github/followers/Paulomiezi1?style=social)](https://github.com/Paulomiezi1)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/miezi-1596/)
+
+
 <!--
 **Paulomiezi1/Paulomiezi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
