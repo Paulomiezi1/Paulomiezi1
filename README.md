@@ -6,15 +6,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/miezi10?style=social)](https://github.com/miezi10)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/miezi-1596/)
 
+<div align="center">
+  <a href="https://github.com/Paulomiezi1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulomiezi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 - 🔭 I'm a developer that loves create new things!
 - 🌱 I'm Currently learning and trying to expand my knowledge, end my favorite Stack is 💻 Node, ReactJS, React Native, Typescript
 - 💬 Ask me about C#, JAVA...
 
-<div align="center">
-  <a href="https://github.com/Paulomiezi1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulomiezi1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulomiezi1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
 **Languages and Tools:**
